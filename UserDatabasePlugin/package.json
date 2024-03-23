@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-user-database",
+  "version": "1.0.0",
+  "description": "This plugin is help for user authentication data store and regiter success to login sucees using crud operation.",
+  "cordova": {
+    "id": "cordova-plugin-user-database",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Karan Mishra",
+  "license": "ISC"
+}
